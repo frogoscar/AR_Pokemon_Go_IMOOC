@@ -1,12 +1,12 @@
 # [ARPokemonGo](http://www.imooc.com/learn/844)
 
-My course on [imooc.com](http://www.imooc.com) : Developing AR game like Pokemon Go using Unity 3D and Vuforia SDK
+My course on [imooc.com](http://www.imooc.com) : Develop AR game like Pokemon Go using Unity 3D and Vuforia SDK
 
 我在[慕课网](http://www.imooc.com)的免费视频教程：《带你开发类似Pokemon Go的AR游戏》 
 
-地址：http://www.imooc.com/learn/844
+**地址**：http://www.imooc.com/learn/844
 
-![](http://upload-images.jianshu.io/upload_images/1783214-d71d6814188c917f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://github.com/frogoscar/ARPokemonGo/blob/master/imgs/1.png)
 
 >-- 作者 谢恩铭 转载请注明出处
 
@@ -17,7 +17,7 @@ My course on [imooc.com](http://www.imooc.com) : Developing AR game like Pokemon
 
 >这一课内容实在太多，如果写成文章，我需要截图几百张。因此我把这套课程录制成了视频教程，发布在慕课网上，完全免费：《带你开发类似Pokemon Go的AR游戏》http://www.imooc.com/learn/844
 
-![](http://upload-images.jianshu.io/upload_images/1783214-989943094a48cb5b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://github.com/frogoscar/ARPokemonGo/blob/master/imgs/2.png)
 
 这个视频课程内容很多，是我第一次正式录制视频课程。我也把一些经验写成了文章：[如何录制和剪辑视频 | Mac篇](http://www.jianshu.com/p/48ab0459b96e)
 
@@ -31,12 +31,22 @@ My course on [imooc.com](http://www.imooc.com) : Developing AR game like Pokemon
 
 游戏所用的素材在「资料下载」处下载，是 RAR 格式的压缩文件 ：
 
-![](http://upload-images.jianshu.io/upload_images/1783214-0a2050c11bb941f7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://github.com/frogoscar/ARPokemonGo/blob/master/imgs/3.png)
 
 好了，一起去学习吧。加油～
 
 ***
 
 >我是[谢恩铭](http://www.jianshu.com/u/44339a8a9afa)，在巴黎奋斗的软件工程师。
-热爱生活，喜欢游泳，略懂烹饪。
-人生格言：「向着标杆直跑」
+
+>热爱生活，喜欢游泳，略懂烹饪。
+
+>人生格言：「向着标杆直跑」
+
+## 我的微信公众号
+
+**程序员联盟**
+
+扫描二维码关注，学习原创编程教程。
+
+![](https://github.com/frogoscar/ARPokemonGo/blob/master/imgs/qrcode.jpg)
