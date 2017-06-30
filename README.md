@@ -45,7 +45,7 @@ My course on [imooc.com](http://www.imooc.com) : Develop AR game like Pokemon Go
 
 ## 我的微信公众号
 
-**程序员联盟**
+[**程序员联盟**](http://www.jianshu.com/u/44339a8a9afa)
 
 扫描二维码关注，学习原创编程教程。
 
